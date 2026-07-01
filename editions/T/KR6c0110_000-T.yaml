@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6c0110/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛經疏
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2738.xml
+    old_id: T85n2738
+hash: sha256:c1f28541f4e275f964d0388a673f3dc0e3bb7f9472351abfbb3a1d4b51246f57
